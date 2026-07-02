@@ -22,32 +22,28 @@ This project provides a Standard Operating Procedure (SOP) for guiding individua
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on your profile picture/letter in the top right corner and select Manage your Google Account: <br/>
+<img <img width="339" height="67" alt="image" src="https://github.com/user-attachments/assets/fa2ec921-f040-438c-9b80-0c4b73b9b53f" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Security & Sign-In from the left-hand column:  <br/>
+<img <img width="212" height="294" alt="image" src="https://github.com/user-attachments/assets/3e1116f1-7090-4aea-b074-58e3454a3b41" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select 2-Step Verification under How you sign in to Google: <br/>
+<img <img width="587" height="146" alt="image" src="https://github.com/user-attachments/assets/e6bd15e1-8dd4-47df-9572-dfdae25f9d85" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Re-enter your Google Password:  <br/>
+<img width="672" height="255" alt="image" src="https://github.com/user-attachments/assets/4a8bb679-e549-4001-8f4d-8b4f9fa2e9fd" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Under second steps, add a phone number to receive verification codes either through text message or a phone call:  <br/>
+<img <img width="269" height="305" alt="image" src="https://github.com/user-attachments/assets/a7ca7ac9-ccac-456a-ae93-e2106f0da0d9" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scroll to the bottom and select Turn on 2-Step Verification:  <br/>
+<img <img width="257" height="66" alt="image" src="https://github.com/user-attachments/assets/a061db0f-3e2f-4715-8ac1-088db213d15d" />
 </p>
 
 <!--
